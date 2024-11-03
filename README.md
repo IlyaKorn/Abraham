@@ -1,3 +1,3 @@
 # Abraham
 
-Just clone a repo and run "npm i && npm run start"
+Just clone the repo and run "npm i && npm run start"
